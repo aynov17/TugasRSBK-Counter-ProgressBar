@@ -6,7 +6,7 @@
 
 /**
  *
- * @author yrnsh
+ * @author ayunovita
  */
 public class ProgressBar extends java.applet.Applet {
 
