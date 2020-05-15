@@ -7,7 +7,7 @@ package counter;
 
 /**
  *
- * @author yrnsh
+ * @author ayunovita
  */
 import java.awt.*;   
 public class Counter extends Panel {   
