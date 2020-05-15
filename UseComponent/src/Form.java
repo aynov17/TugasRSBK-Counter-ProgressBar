@@ -6,7 +6,7 @@
 
 /**
  *
- * @author yrnsh
+ * @author ayunovita
  */
 public class Form extends java.applet.Applet {
 
